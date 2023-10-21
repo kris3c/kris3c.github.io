@@ -10,9 +10,9 @@ As time went on, and I progressed to the 10th standard, people started asking me
 
 # Let's Connect 
 
--$ Email: [mailkris3c@gmail.com](mailto:mailkris3c@gmail.com)
--$ LinkedIn: [https://www.linkedin.com/in/tangecheukhei/](https://www.linkedin.com/in/kris3c/)
--$ Discord: kris3c
--$ [Twitter](https://twitter.com/krish_ars3)
--$ [GitHub](https://github.com/kris3c)
--$ [Youtube](https://www.youtube.com/@red3ye131)
+- $ Email: [mailkris3c@gmail.com](mailto:mailkris3c@gmail.com)
+- $ LinkedIn: [https://www.linkedin.com/in/tangecheukhei/](https://www.linkedin.com/in/kris3c/)
+- $ Discord: kris3c
+- $ [Twitter](https://twitter.com/krish_ars3)
+- $ [GitHub](https://github.com/kris3c)
+- $ [Youtube](https://www.youtube.com/@red3ye131)
