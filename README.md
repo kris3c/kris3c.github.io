@@ -1,3 +1,3 @@
 # Welcome to Kris3c's 1@(K!NG Space :)
 
-This space is created for the people who are having keen inetrest in the Security World. In this space you will get Informational Blogs, Writeups, Roadmaps, Resoruces and many more things. Let's Break the things Together...
+This space is dedicated to individuals with a strong interest in the world of security. Here, you will find informative blogs, write-ups, roadmaps, resources, and more. Let's break things down together.
