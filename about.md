@@ -1,8 +1,12 @@
-# Hello Friend 
+# bout Myself: Kris3c - A Fusion of "Kri" and "Sec"
 
-Myself Krish Arse and people knows me with my name Kris3c. I am 19 years old from India (Bharat) having strong interset in cyber world. 
+I'm Krish Arse, widely recognized as Kris3c. I'm a 19-year-old from India (Bharat), and I have a profound interest in the cyber world.
 
-Since my Childhood i was very pasinate about Computers. IN my school days when i was in my 7 standard i use to tell my friedns that i can hack hacks (Obviously with lucky patcher) and thats why i have so muchg respect in firned circle. This continued till my 10 standards people started asking how to start in this field at that time i was looking for the asnwer for teh same question in search of that question i came across the channel [BittenTech](https://www.youtube.com/@BittenTech) and saw his video of one of his workshop in which he was performin SQL injection on DAWN. I gone through his channel read many arcticle to create our own roadmap and the Journey from KRish Arse to Kris3c Satrted from 11th standards.
+# Early Passion for Computers
+
+My fascination with computers began in my childhood. Even during my school days, when I was in the 7th standard, I used to boast to my friends that I could perform hacks (albeit, with the help of tools like Lucky Patcher). This garnered me a great deal of respect within my circle of friends.
+
+As time went on, and I progressed to the 10th standard, people started asking me how to get started in the field. At that point, I began my quest to find the answer to that very question. During this search, I stumbled upon BittenTech's YouTube channel. One of his workshop videos particularly caught my attention. It demonstrated an SQL injection on DAWN. I delved into his channel and read numerous articles to create my own roadmap. That's when the transformation from Krish Arse to Kris3c began, a name derived by combining "Kri" from Krish and "Sec" from security, and it all unfolded during my 11th standard.
 
 # Let's Connect 
 
