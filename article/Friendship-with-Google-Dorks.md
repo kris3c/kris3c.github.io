@@ -10,7 +10,7 @@ In this article we will see why proffesional hackers always say google is your b
 1. [Introduction](#introduction)
 2. [Why Google?](#why-google)
 3. [Google Dorking](#google-dorking)
-4. [Usefull Dorks you should know about](#usefull-dorks-you-should-know-about)
+4. [Usefull Dorks you should know about](#usefull-dorks-you-should-knowabout)
 5. [Refrence](#refrence)
 6. [Last words](#last-words)
 
