@@ -5,10 +5,7 @@
 
 
 
-
-
-
-![Intro2](https://github.com/kris3c/kris3c.github.io/assets/128035061/e5a10080-1914-4b0f-8880-88c002d819d1)
+![Logo_Reveal](https://github.com/kris3c/kris3c.github.io/assets/128035061/38c2f17b-eb3b-40c9-bec9-8a75eec1324a)
 
 
 
