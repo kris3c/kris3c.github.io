@@ -22,7 +22,7 @@ This space is dedicated to individuals with a strong interest in the world of se
 
 - Hackries
   - ADVenture Unleased
-    - [Introduction to ADventure: Unraveling Active Directory](https://kris3c.github.io/hackries/ADventure-Unleased/part01), October 22,2023
+    - [Introduction to ADventure: Unraveling Active Directory](https://kris3c.github.io/hackries/ADventure-Unleased/introduction-to-adventure-unraveling-active-directory.md), October 22,2023
 - WriteUp Space
   - Try Hack Me
     - [Surfer](https://kris3c.github.io/writeup/tryhackme/surfer), October 22, 2023
