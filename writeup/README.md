@@ -16,7 +16,7 @@ In this space
 
 ## Try Hack Me
 
-1. [Surfer]()
+1. [Surfer](https://kris3c.github.io/writeup/tryhackme/surfer)
 
 ## Hack The Box
 
