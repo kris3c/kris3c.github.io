@@ -1,3 +1,3 @@
-# Projects Space Welcomes You!
+# Project Space Welcomes You!
 
 Coming Soon: Exciting Projects in the Pipeline!
