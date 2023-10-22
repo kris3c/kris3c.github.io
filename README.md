@@ -3,6 +3,11 @@
 
 ![Intro1](https://github.com/kris3c/kris3c.github.io/assets/128035061/e9879334-dd45-461d-8148-33a1c9ecbd78)
 
+
+
+
+
+
 ![Intro2](https://github.com/kris3c/kris3c.github.io/assets/128035061/e5a10080-1914-4b0f-8880-88c002d819d1)
 
 
