@@ -20,4 +20,8 @@ This space is dedicated to individuals with a strong interest in the world of se
 
 #### Latest Content Update: 22-10-2023 
 
-Hello
+- WriteUp Space
+  - Try Hack Me
+    - [Surfer](https://kris3c.github.io/writeup/tryhackme/surfer), October 22, 2023
+- Article Space
+  - [Friendship-with-Google : Dorks](https://kris3c.github.io/article/Friendship-with-Google-Dorks), October 22, 2023
