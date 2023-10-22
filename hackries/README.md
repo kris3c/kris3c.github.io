@@ -1,8 +1,8 @@
 # Hackries Space Welcomes You!
 
-## Find Your Way
+### Find Your Way
 
-1. [ADventure Unleased](#adventure-unleased)
+1. [ADventure Unleased](#adventure-unleased), October 22, 2023
 
 ## ADventure Unleased 
 
