@@ -70,4 +70,4 @@ Follow me on these platforms to stay updated and engage in the ADventure:
 - [Twitter](https://twitter.com/Krish_Ars3)
 - [LinkedIn](https://www.linkedin.com/in/kris3c/)
 
-Your questions, feedback, and insights are always valued as we navigate this educational odyssey.
+Your questions, feedback, and insights are always valued as we navigate this educational odyssey :)
