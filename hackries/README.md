@@ -6,5 +6,5 @@
 
 ## ADventure Unleased 
 
-1. [Introduction to ADventure: Unraveling Active Directory]()
+1. [Introduction to ADventure: Unraveling Active Directory](https://kris3c.github.io/hackries/ADventure-Unleased/part01)
 
