@@ -1,6 +1,6 @@
 # Hackries Space Welcomes You!
 
-### Series 
+### Find Your Way
 
 1. [ADventure Unleased](#adventure-unleased)
 
