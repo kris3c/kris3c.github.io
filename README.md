@@ -1,7 +1,7 @@
 # Welcome to Kris3c's 1@(K!NG Space 
 
 
-![Intro1](https://github.com/kris3c/kris3c.github.io/assets/128035061/e9879334-dd45-461d-8148-33a1c9ecbd78)
+
 
 
 
