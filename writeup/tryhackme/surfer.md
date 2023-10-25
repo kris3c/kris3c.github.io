@@ -109,6 +109,11 @@ Objective Accomplished: The Flag is Secured
 
 We trust that this walkthrough has equipped you with valuable insights and knowledge. Should you have any questions or seek further clarifications, we encourage you to utilize the comment section. We also invite you to share this knowledge within the information security community, and we look forward to your continued support.
 
-Sincerely,
-
-Kris3c
+<script src="https://utteranc.es/client.js"
+        repo="kris3c/kris3c.github.io"
+        issue-term="pathname"
+        label="KriCom"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
