@@ -74,3 +74,12 @@ Don't forget to share this blog with your friends to spread knowledge in infosec
 Do follow to stay connected for more informative articles.
 
 Thankyou, Happy Hunting :)
+
+<script src="https://utteranc.es/client.js"
+        repo="kris3c/kris3c.github.io"
+        issue-term="pathname"
+        label="KriCom"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
