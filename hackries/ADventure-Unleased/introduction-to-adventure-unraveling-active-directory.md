@@ -71,3 +71,12 @@ Follow me on these platforms to stay updated and engage in the ADventure:
 - [LinkedIn](https://www.linkedin.com/in/kris3c/)
 
 Your questions, feedback, and insights are always valued as we navigate this educational odyssey.
+
+<script src="https://utteranc.es/client.js"
+        repo="kris3c/kris3c.github.io"
+        issue-term="pathname"
+        label="KriCom"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
