@@ -9,7 +9,7 @@ The memes in this section are meant for entertainment and humor, particularly re
     theme="github-dark"
     crossorigin="anonymous"
     async
-    style="styles.css"> <!-- This links to your CSS file -->
+    style="https://kris3c.github.io/krispymemez/styles.css"> <!-- This links to your CSS file -->
 </script>
 
 
