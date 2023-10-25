@@ -1,4 +1,4 @@
 title: Kris3c's Space
 remote_theme: pages-themes/hacker@v0.2.0
-plugins:
+plugins-dirs:
  — jekyll-feed
