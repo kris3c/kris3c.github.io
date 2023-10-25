@@ -1,18 +1,22 @@
+# KriTune
+
+Stay KriTunned! Subscribe to receive all the latest updates related to articles, writeups, and hackeries directly in your inbox. Be the first to know about our engaging content and stay ahead in the world of cybersecurity and technology. Join our community and never miss a beat.
+
 <div id="mc_embed_shell">
     <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
     <style type="text/css">
-        #mc_embed_signup { background: #000; /* Dark background color */ clear: left; font: 14px Helvetica, Arial, sans-serif; width: 600px; }
+        #mc_embed_signup { background: rgba(0, 0, 0, 0); /* Transparent background */ clear: left; font: 14px Helvetica, Arial, sans-serif; width: 600px; }
         /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
            We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
     </style>
     <div id="mc_embed_signup">
         <form action="https://github.us12.list-manage.com/subscribe/post?u=eeff5b699fb1c41f4b9bbd538&amp;id=2e69c5e3fa&amp;f_id=002641e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-            <div id="mc_embed_signup_scroll">
+            <div id="mc_embed_signup_scroll"><h2>KriTune to Kris3c Space</h2>
                 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
                 <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div>
                 <div id="mce-responses" class="clear foot">
                     <div class="response" id="mce-error-response" style="display: none;"></div>
-                    <div class="response" id="mce-success-response" style="display: none;"></div>
+                    <div a class="response" id="mce-success-response" style="display: none;"></div>
                 </div>
                 <div aria-hidden="true" style="position: absolute; left: -5000px;">
                     /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
