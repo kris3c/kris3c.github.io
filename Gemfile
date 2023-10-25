@@ -1,1 +1,1 @@
-gem ‘jekyll-feed’
+gems ‘jekyll-feed’
