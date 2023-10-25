@@ -23,7 +23,7 @@
             color: #fff; /* Text color */
             padding: 15px 0; /* Add padding to the top and bottom of the button */
             border: none; /* Remove border */
-            border-radius: 5px; /* Add rounded corners */
+            border-radius: 25px; /* Add rounded corners */
             cursor: pointer;
         }
 
