@@ -7,7 +7,7 @@
     </style>
     <div id="mc_embed_signup">
         <form action="https://github.us12.list-manage.com/subscribe/post?u=eeff5b699fb1c41f4b9bbd538&amp;id=2e69c5e3fa&amp;f_id=002641e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-            <div id="mc_embed_signup_scroll"><h2>KriTune to Kris3c Space</h2>
+            <div id="mc_embed_signup_scroll">
                 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
                 <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div>
                 <div id="mce-responses" class="clear foot">
