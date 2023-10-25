@@ -1,0 +1,5 @@
+/* Make Utteranc.es comments compact */
+.utterances {
+  max-height: 25px; /* Adjust the height to your preference */
+  overflow: hidden;
+}
