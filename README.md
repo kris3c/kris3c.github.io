@@ -6,14 +6,9 @@ This space is dedicated to individuals with a strong interest in the world of se
 
 # Updates
 
-#### Latest Content Update: 22-10-2023 
+#### Latest Content Update: 01-12-2023 
 
 - Hackries
-  - ADVenture Unleased
-    - [Introduction to ADventure: Unraveling Active Directory](https://kris3c.github.io/hackries/ADventure-Unleased/introduction-to-adventure-unraveling-active-directory), October 22,2023
-- WriteUp Space
-  - Try Hack Me
-    - [Surfer](https://kris3c.github.io/writeup/tryhackme/surfer), October 22, 2023
-- Article Space
-  - [Friendship-with-Google : Dorks](https://kris3c.github.io/article/Friendship-with-Google-Dorks), October 22, 2023
+  - Decoding The Bug Hunter Methodology 2
+    - [Decoding TBHM 2 x001 : Enlightening the Sword](https://kris3c.github.io/hackries/decoding-the-bug-hunter-methodology-2/enlightening the-sword), December 01,2023
 
