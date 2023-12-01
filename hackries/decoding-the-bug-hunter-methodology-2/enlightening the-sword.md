@@ -1,4 +1,4 @@
-# Enlightening the Sword
+# Decoding TBHM 2 x001 : Enlightening the Sword
 
 ![1](https://github.com/kris3c/kris3c.github.io/assets/128035061/f6529d46-099d-40bc-a4d6-21b5d3c6d1b4)
 
