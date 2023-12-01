@@ -12,7 +12,7 @@ Let's Begin the Journey
 
 - [Catching the Target](#catching-the-target)
 - [Sharping the Report](#sharping-the-report)
-	- [Template by the OG Haddix](template-by-the-og-haddix)
+	- [Template by the OG Haddix](#template-by-the-og-haddix)
 - [Crafting a Notebook](#crafting-a-notebook)
 	- [Mapping the Target](#mapping-the-target)
 - [Connect with Me](#connect-with-me)
