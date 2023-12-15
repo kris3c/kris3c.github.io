@@ -3,7 +3,7 @@
 ## Find Your Way
 
 1. [ADventure Unleased](#adventure-unleased), October 22, 2023
-2. [Decoding The Bug Hunter Methodology 2 ](#Decoding-TBHM-2-x001:Enlightening-the-Sword)December 01,2023
+2. [Decoding The Bug Hunter Methodology 2 ](#decoding-the-bug-hunter-methodology-2)December 01,2023
 
 ## 1. ADventure Unleased 
 
