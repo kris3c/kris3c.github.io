@@ -11,4 +11,7 @@ This space is dedicated to individuals with a strong interest in the world of se
 - Hackries
   - Decoding The Bug Hunter Methodology 2
     - [Decoding TBHM 2 x001 : Enlightening the Sword](https://kris3c.github.io/hackries/decoding-the-bug-hunter-methodology-2/enlightening-the-sword), December 01,2023
+- Writeup
+  - HackTheBox
+   - [Broker](https://kris3c.github.io/writeup/hackthebox/broker) 
 
