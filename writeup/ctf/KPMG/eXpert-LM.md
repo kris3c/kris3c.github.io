@@ -5,7 +5,7 @@
 
 1. [Background](#Background)
 2. [Recon](#Recon)
-3. [Exploitation](#Exploitation)
+3. [Exploitation](#exploitation---xxe-attack)
 
 ## Background 
 
