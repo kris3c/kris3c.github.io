@@ -66,14 +66,14 @@ When accessing the "/complexpage.html" endpoint we get a simple registration for
 
 Let's enter details and Intercept request and response in Burpsuite
 
-**Request**
+**Request :**
 
-- ![Screenshot from 2023-12-22 18-10-58](https://github.com/kris3c/kris3c.github.io/assets/128035061/2788caa4-e034-4e07-9d80-371129382605)
+![Screenshot from 2023-12-22 18-10-58](https://github.com/kris3c/kris3c.github.io/assets/128035061/2788caa4-e034-4e07-9d80-371129382605)
 
 
-**Response**
+**Response :**
 
-- ![Screenshot from 2023-12-22 18-16-48](https://github.com/kris3c/kris3c.github.io/assets/128035061/ff2f6291-67e4-4289-a604-8a690a2fd38a)
+![Screenshot from 2023-12-22 18-16-48](https://github.com/kris3c/kris3c.github.io/assets/128035061/ff2f6291-67e4-4289-a604-8a690a2fd38a)
 
 
 As it is XML version 1 and the value of "Email" is returned in the response let's try XXE Attack 
