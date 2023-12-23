@@ -1,6 +1,6 @@
 # WriteUp Space Welcomes You!
 
-In this space 
+In this space you will get a binch of writeups for differnt challeneges. 
 
 ## Table of Content
 
