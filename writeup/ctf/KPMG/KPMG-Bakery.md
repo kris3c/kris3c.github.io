@@ -32,7 +32,8 @@ Nothing interesting returned bu the gobuster only the /js directory having a sin
 
 I Tried to create a diagram so that it will be easy to imagine the application x00
 
-![[visual.png]]
+![visual](https://github.com/kris3c/kris3c.github.io/assets/128035061/879964d6-2aac-4255-afa4-d8afd4d1caed)
+
 
 * There is a Clickable "Bakery" Button.
 * A Search Box.
