@@ -2,7 +2,7 @@
 
 `Date : 22 Dec 2023 Friday`
 
-Hey Hackers, Sorry i forgot to capture screenshots while i was solving the challenge but i will provide as much as possible context to create the whole scenario with words. <<
+Hey Hackers, I forgot to capture screenshots while i was solving the challenge but i will provide as much as possible context to create the whole scenario with words. <<
 
 
 ## Table of Content 
