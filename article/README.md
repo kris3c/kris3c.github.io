@@ -7,3 +7,8 @@
 > Master Google Dorking with Kris3c's guidance, revealing advanced search tactics to uncover critical data. Elevate your cybersecurity skills and share the wisdom within your infosec circle.
 
 Tags: Google,Dorking
+
+## [Surprising Imagick with RCE](https://kris3c.github.io/article/surprising-imagick-with-rce)
+> Exploit Imagick() PHP fucntion to get RCE on the vulnerable server.
+
+Tags: Imagick,RCE
