@@ -6,7 +6,7 @@ This space is dedicated to individuals with a strong interest in the world of se
 
 # Updates
 
-#### Latest Content Update: 01-12-2023 
+#### Latest Content Update: 27-12-2023 
 - Article
   - [Surprising Imagick with RCE](https://kris3c.github.io/article/surprising-imagick-with-rce), December 27, 2023
 - Writeup
