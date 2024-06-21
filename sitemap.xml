@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://kris3c.github.io/</loc>
+  <lastmod>2023-12-23T08:58:50+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://kris3c.github.io/about</loc>
+  <lastmod>2023-12-23T08:58:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kris3c.github.io/article/</loc>
+  <lastmod>2023-12-23T08:58:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kris3c.github.io/hackries/</loc>
+  <lastmod>2023-12-23T08:58:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kris3c.github.io/writeup/</loc>
+  <lastmod>2023-12-23T08:58:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kris3c.github.io/projects/</loc>
+  <lastmod>2023-12-23T08:58:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kris3c.github.io/kritune/</loc>
+  <lastmod>2023-12-23T08:58:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kris3c.github.io/hackries/decoding-the-bug-hunter-methodology-2/enlightening-the-sword</loc>
+  <lastmod>2023-12-23T08:58:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kris3c.github.io/writeup/hackthebox/broker</loc>
+  <lastmod>2023-12-23T08:58:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kris3c.github.io/article/Friendship-with-Google-Dorks</loc>
+  <lastmod>2023-12-23T08:58:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kris3c.github.io/hackries/ADventure-Unleased/introduction-to-adventure-unraveling-active-directory</loc>
+  <lastmod>2023-12-23T08:58:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kris3c.github.io/writeup/ctf/KPMG/eXpert-LM</loc>
+  <lastmod>2023-12-23T08:58:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kris3c.github.io/writeup/ctf/KPMG/KPMG-Bakery</loc>
+  <lastmod>2023-12-23T08:58:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kris3c.github.io/writeup/tryhackme/surfer</loc>
+  <lastmod>2023-12-23T08:58:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

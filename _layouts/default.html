@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:image" content="https://kris3c.github.io/assets/images/logo.jpeg" />
+    <!-- <meta property="og:image:width" content="1200" /> -->
+    <!-- <meta property="og:image:height" content="630" /> -->
+    <meta property="og:description" content="Master Cybersecurity with Kris3c: Your InfoSec Hub. Explore hackries, writesups, articles, and more to gain in-depth insights." />
+    <meta name="description" content="Master Cybersecurity with Kris3c: Your InfoSec Hub. Explore hackries, writesups, articles, and more to gain in-depth insights.">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+      }
+    });
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML" type="text/javascript"></script>
+
+{% seo %}
+    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/eeff5b699fb1c41f4b9bbd538/270c21ccde49f73fa45628fe7.js");</script>
+  {% include head-custom-google-analytics.html %}
+  </head>
+
+  <body>
+
+    <header>
+      <div class="container">
+        <a id="a-title" href="{{ '/' | relative_url }}">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        </a>
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+
+        <section id="downloads">
+          <a href="https://kris3c.github.io" class="btn btn-github">Home</a>
+          <a href="https://kris3c.github.io/about" class="btn btn-github">About</a>
+          <a href="https://kris3c.github.io/article" class="btn btn-github">Article</a>
+          <a href="https://kris3c.github.io/hackries" class="btn btn-github">Hackries</a>
+          <a href="https://kris3c.github.io/writeup" class="btn btn-github">Writeups</a>
+          <a href="https://kris3c.github.io/projects" class="btn btn-github">Projects</a>
+          <a href="https://kris3c.github.io/kritune" class="btn btn-github">KriTune</a>
+        </section>
+      </div>
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+        {{ content }}
+      </section>
+    </div>
+
+    <!-- Badges -->
+
+  </body>
+</html>
