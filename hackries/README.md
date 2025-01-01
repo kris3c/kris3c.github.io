@@ -2,7 +2,7 @@
 
 ### Find Your Way
 
-1. [Mastering x86-64 Assembly](#Mastering-x86-64-Assembly),January 01,2025
+1. [Mastering x86-64 Assembly](#mastering-x86-64-assembly),January 01,2025
 
 ## 1. Mastering x86-64 Assembly
 
