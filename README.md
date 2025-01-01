@@ -8,8 +8,8 @@ This space is dedicated to individuals with a strong interest in the world of se
 
 #### Latest Content Update: 05-04-2024
 
-- Writeup
-  - TryHackMe
-    - [Pentest007](https://kris3c.github.io/writeup/tryhackme/pentest007), April 05,2024
+- Hackries
+  - Mastering x86-64 Assembly
+    - [Understanding the x86-64 Architecture](https://kris3c.github.io/hackries/mastering-x86-64-assembly/0x01), January 01,2025
 
 
