@@ -12,3 +12,8 @@ Tags: Google,Dorking
 > Exploit Imagick() PHP fucntion to get RCE on the vulnerable server.
 
 Tags: Imagick,RCE
+
+## [Vim: The Exit Command](https://kris3c.github.io/article/vim-the-exit-command)
+> Unlocking the full potential of both coder and editor.
+
+Tags: Vim, Neovim
