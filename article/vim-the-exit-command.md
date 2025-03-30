@@ -1,3 +1,45 @@
+# VIM : The exit command
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Kris3c
+
+`Date: 30 March 2025`
+
+
+![Picsart_25-03-30_17-02-13-838](https://github.com/user-attachments/assets/89be7c0c-c2c1-4b4c-96fc-02a9db7ed9a4)
+
+Vim is a powerfull command line editor which is capable of increasing your coding speed even if you are writting another editor in vim.
+
+This article will take you from the level of not knowing how to exit vim to assing your own key for exiting it.
+
+## Table of Content
+
+- [Modes](#modes)
+  - [Normal Mode](#normal-mode)
+    - [Cursor Movement](#cursor-movement)
+    - [Movement with Numbers](#movement-with-numbers)
+    - [Undo & Redo](#undo--redo)
+    - [Searching](#searching)
+    - [Marking Points](#marking-points)
+    - [Other Useful Commands](#other-useful-commands)
+  - [Insert Mode](#insert-mode)
+  - [Command Mode](#command-mode)
+  - [Configuration](#configuration)
+  - [Visual Mode](#visual-mode)
+    - [Combining with Numbers](#combining-with-numbers)
+    - [Change & Replace](#change--replace)
+    - [Word and Line Navigation](#word-and-line-navigation)
+    - [Deleting Words](#deleting-words)
+    - [Line Navigation](#line-navigation)
+    - [File Navigation](#file-navigation)
+    - [Indentation & Repetition](#indentation--repetition)
+  - [Visual Line Mode](#visual-line-mode)
+  - [Visual Block Mode](#visual-block-mode)
+  - [Registers & Macros](#registers--macros)
+    - [Registers](#registers)
+    - [Macros](#macros)
+
+
+
 ## Modes
 
 ### Normal Mode
@@ -57,6 +99,14 @@
 ### Configuration
 
 - Location: `~/.vimrc`
+
+We can place any settings in `~/.vimrc` to make them permanent.
+
+```
+set mouse=a
+set number
+set relativenumber
+```
 
 ### Visual Mode
 
