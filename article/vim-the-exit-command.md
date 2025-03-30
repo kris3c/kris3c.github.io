@@ -48,7 +48,7 @@ This article will take you from struggling to exit Vim to customizing your own k
 - `j` : Move down  
 - `k` : Move up  
 
-##### Movement with Numbers
+#### Movement with Numbers
 
 - `{number}h`, `{number}l` → Move left/right `{number}` times (e.g., `4h` moves 4 characters left)
 - `{number}j`, `{number}k` → Move down/up `{number}` lines (e.g., `4j` moves 4 lines down)
