@@ -6,7 +6,7 @@ This space is dedicated to individuals with a strong interest in the world of se
 
 # Updates
 
-#### Latest Content Update: 05-04-2024
+#### Latest Content Update: 30-03-2025
 
 - Article
   - [Vim: The Exit Command](https://kris3c.github.io/article/vim-the-exit-command), March 30,2025
