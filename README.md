@@ -4,7 +4,13 @@
 
 This space is dedicated to individuals with a strong interest in the world of security. Here, you will find informative blogs, write-ups, roadmaps, resources, and more. Let's break things down together. :)
 
-# Updates - [Whatsapp Community](https://chat.whatsapp.com/HOJpyncUr558i7hYtNZeer)
+# Updates - 
+
+**Did you know?**  
+  
+We also have a WhatsApp Community where professionals and learners connect, collaborate, and grow together.  
+  
+👉 [Join 0x4B1T Now](https://chat.whatsapp.com/HOJpyncUr558i7hYtNZeer)
 
 #### Latest Content Update: 30-03-2025
 
