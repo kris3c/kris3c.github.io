@@ -4,11 +4,9 @@
 
 This space is dedicated to individuals with a strong interest in the world of security. Here, you will find informative blogs, write-ups, roadmaps, resources, and more. Let's break things down together. :)
 
-# Updates
+# Updates - [Whatsapp Community](https://chat.whatsapp.com/HOJpyncUr558i7hYtNZeer)
 
 #### Latest Content Update: 30-03-2025
 
 - Article
   - [Vim: The Exit Command](https://kris3c.github.io/article/vim-the-exit-command), March 30,2025
-
-
