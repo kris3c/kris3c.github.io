@@ -1,79 +1,98 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <meta charset='utf-8'>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Master Cybersecurity with Kris3c: Your InfoSec Hub.">
     <meta property="og:image" content="https://kris3c.github.io/assets/images/logo.jpeg" />
-    <!-- <meta property="og:image:width" content="1200" /> -->
-    <!-- <meta property="og:image:height" content="630" /> -->
-    <meta property="og:description" content="Master Cybersecurity with Kris3c: Your InfoSec Hub. Explore hackries, writesups, articles, and more to gain in-depth insights." />
-    <meta name="description" content="Master Cybersecurity with Kris3c: Your InfoSec Hub. Explore hackries, writesups, articles, and more to gain in-depth insights.">
+    <meta property="og:description" content="Explore hackries, writeups, articles, and more." />
+
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-      tex2jax: {
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-        inlineMath: [['$','$']]
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML"></script>
+    {% seo %}
+    {% include head-custom-google-analytics.html %}
+
+    <style>
+      body {
+        margin: 0;
+        font-size: 15px;
+        line-height: 1.6;
+        display: flex;
+        flex-direction: row;
+        font-family: Monaco, monospace;
       }
-    });
-</script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML" type="text/javascript"></script>
 
-{% seo %}
-    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/eeff5b699fb1c41f4b9bbd538/270c21ccde49f73fa45628fe7.js");</script>
-  {% include head-custom-google-analytics.html %}
+      .sidebar {
+        width: 220px;
+        min-height: 100vh;
+        background-color: #0f0f0f;
+        color: #b5e853;
+        padding: 1.5rem 1rem;
+      }
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-  body {
-    font-size: 15px;
-    line-height: 1.6;
-    padding: 0 1rem;
-  }
-  pre {
-    overflow-x: auto;
-  }
-</style>
+      .sidebar .logo {
+        font-size: 1.4rem;
+        font-weight: bold;
+        margin-bottom: 2rem;
+      }
 
+      .sidebar nav a {
+        display: block;
+        color: #63c0f5;
+        text-decoration: none;
+        margin: 0.75rem 0;
+        transition: 0.2s ease;
+      }
+
+      .sidebar nav a:hover {
+        color: white;
+        padding-left: 5px;
+      }
+
+      #main_content {
+        flex: 1;
+        padding: 2rem;
+        max-width: 800px;
+        margin: 0 auto;
+      }
+
+      pre {
+        overflow-x: auto;
+      }
+
+      @media (max-width: 768px) {
+        body {
+          flex-direction: column;
+        }
+
+        .sidebar {
+          width: 100%;
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-around;
+          align-items: center;
+        }
+
+        .sidebar nav {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 0.75rem;
+        }
+
+        #main_content {
+          padding: 1rem;
+        }
+      }
+    </style>
   </head>
 
   <body>
-
-    <header>
-      <div class="container">
-        <a id="a-title" href="{{ '/' | relative_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-
-        <section id="downloads">
-          <a href="https://kris3c.github.io" class="btn btn-github">Home</a>
-          <a href="https://kris3c.github.io/about" class="btn btn-github">About</a>
-          <a href="https://kris3c.github.io/article" class="btn btn-github">Article</a>
-          <a href="https://kris3c.github.io/hackries" class="btn btn-github">Hackries</a>
-          <a href="https://kris3c.github.io/writeup" class="btn btn-github">Writeups</a>
-          <a href="https://kris3c.github.io/projects" class="btn btn-github">Projects</a>
-          <!-- Buy Me a Coffee Button -->
-<a href="https://www.buymeacoffee.com/kris3c" class="btn btn-github" target="_blank" style="background-color: #32CD32; color: white;">
-  ☕ Buy Me a Coffee
-</a>
-
-
-
-        </section>
-      </div>
-    </header>
-
-    <div class="container">
-      <section id="main_content">
-        {{ content }}
-      </section>
-    </div>
-
-
-    <!-- Badges -->
-
+    {% include sidebar.html %}
+    <main id="main_content">
+      {{ content }}
+    </main>
   </body>
 </html>
